@@ -36,7 +36,7 @@ You’ll learn how to:
 
 For a detailed explanation, visual walkthrough, and lessons learned, check out my full Medium post:
 
-👉 [**Building a SOC Home Lab from Zero — Catching Real Attackers on Azure**](https://medium.com/@hazemelbaz/soc-home-lab-from-zero-catching-attackers) *(Replace with your actual post link)*
+👉 [**Building a SOC Home Lab from Zero — Catching Real Attackers on Azure**](https://medium.com/@hazem.baz/soc-home-lab-on-azure-from-zero-catching-real-attackers-6e377afee7aa) *(Replace with your actual post link)*
 
 ---
 
