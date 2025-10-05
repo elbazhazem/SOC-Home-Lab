@@ -152,7 +152,7 @@ This adds **country, region, and coordinates** for visualization.
 ### Build a Real-Time Global Map:
 1. In **Sentinel → Workbooks → New Workbook**
 2. Delete defaults → Add a **Query** element
-3. Switch to **Advanced Editor** and paste JSON from `map.json`
+3. Switch to **Advanced Editor** and paste JSON from [`map.json`](/map.json)
 4. Save and view live **Attack Map** with geo-located events.
 
 ---
