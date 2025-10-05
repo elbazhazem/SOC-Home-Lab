@@ -24,7 +24,7 @@ You’ll learn how to:
 
 | Folder/File | Description |
 |--------------|-------------|
-| `SOC_Home_Lab_from_ZERO.md` | Full detailed guide for building the SOC environment. |
+| [`SOC_Home_Lab_from_ZERO.md`](/SOC_Home_Lab_from_ZERO.md) | Full detailed guide for building the SOC environment. |
 | `map.json` | JSON file used to create the real-time attack map in Sentinel Workbooks. |
 | `geoip-summarized.csv` | GeoIP dataset used to enrich log data with geolocation details. |
 | `README.md` | This introduction file. |
