@@ -27,7 +27,6 @@ You’ll learn how to:
 | `SOC_Home_Lab_from_ZERO.md` | Full detailed guide for building the SOC environment. |
 | `map.json` | JSON file used to create the real-time attack map in Sentinel Workbooks. |
 | `geoip-summarized.csv` | GeoIP dataset used to enrich log data with geolocation details. |
-| `images/` | Screenshots and visual diagrams of the SOC setup. |
 | `README.md` | This introduction file. |
 
 ---
